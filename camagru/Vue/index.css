@@ -1,0 +1,39 @@
+
+
+#comm
+{
+  margin-left:40%;
+  margin-right:40%;
+  width: 20%;
+  position: fixed;
+  left: 0px;
+  background-color: #d3d3d3;
+  padding-bottom: 15px;
+  padding-left: 10px;
+   border: #4285F4 solid 1px;
+   border-radius: 5px;
+   overflow: scroll;
+
+
+z-index:1000;
+top: 50px;
+}
+#comm_span
+{
+	
+	min-width: 20%;
+	min-height: 20px;
+}
+.hide
+{
+display: none;
+}
+img
+{
+	width: 200px;
+}
+.delete
+{
+  width: 20px;
+}
+

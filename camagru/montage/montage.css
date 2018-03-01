@@ -1,0 +1,50 @@
+#chap
+{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+}
+#stache
+{
+  position: absolute;
+  z-index: 2;
+}
+#chap2
+{
+  width: 100px;
+  height: 80px;
+
+}
+#stache2
+{
+  width: 110px;
+  margin-top: 0px;
+  margin-left: 50px;
+
+}
+.hide
+{
+  display: none;
+}
+video
+{
+  
+}
+fieldset
+{
+  position: relative;
+}
+.img-thumbnail
+{
+  width: 150px;
+  margin-top: 5px;
+}
+#cache
+{
+  background-color: #696969;
+}
+#phot
+{
+	max-width: 650px;
+}
